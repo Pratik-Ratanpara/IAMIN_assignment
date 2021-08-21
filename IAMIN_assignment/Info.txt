@@ -1,0 +1,31 @@
+details
+
+there is only one error that i cant solve it out and that is 
+not able to show the saving which is user adding it 
+
+though i have done all the things in this application like 
+1 -> user can set goal and its amount 
+
+2 -> user can delete the goal using the
+     goal id which they have used for 
+     the to assign particular goal 
+
+3 -> user can addd saving through which
+      they can monitor there saving (as i mention that there a error)
+
+4 -> user can view there goal and saving
+     in a particular window
+
+5->  user can delete its goal 
+     after the accomplishment.   
+
+hence i have done all this using java programming langauge 
+with hibernate technology
+
+
+
+
+
+
+
+
